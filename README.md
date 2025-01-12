@@ -1,2 +1,2 @@
 # Network Rewind
-A proxy server to make your devices *old*
+A proxy server to make your devices *old*.
